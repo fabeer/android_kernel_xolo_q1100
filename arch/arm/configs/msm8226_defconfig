@@ -539,3 +539,8 @@ CONFIG_CIFS=y
 CONFIG_XFRM_MIGRATE=y
 CONFIG_NET_KEY_MIGRATE=y
 #Add by living to enable VPN 20131008 end
+#
+# OTG and related infrastructure
+#
+CONFIG_USB_OTG_UTILS=y
+CONFIG_USB_MSM_OTG=y
